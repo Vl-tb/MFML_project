@@ -1,0 +1,4 @@
+# Segments csv created Sun Mar  5 10:54:31 2017
+# num_ytids=1, num_segs=1, num_unique_labels=1, num_positive_labels=1
+# YTID, start_seconds, end_seconds, positive_labels
+name3, 0.000, 20.000, "class3"
